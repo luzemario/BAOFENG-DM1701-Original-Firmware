@@ -12,4 +12,4 @@ Operação para atualização do Firmware:
 
 ⦁	Clque “Open file upgrade’’ e selecione o arquivo de firmware DM-1701(CSV)-V02.06.bin (ou o outro arquivo, conforme desejar CSV ou não, ambos funcionam), e então “Download file of upgrade”.
 
-⦁	Após ele mostrar ‘’Download upgrade file successful’’, reinicie o radio e a atualização estará terminada.
+⦁	Após ele mostrar ‘’Download upgrade file successful’’, reinicie o rádio e a atualização estará terminada.
