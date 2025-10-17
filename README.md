@@ -10,6 +10,6 @@ Operação para atualização do Firmware:
 
 ⦁	Conecte o rádio ao computaodr com o cabo de programação, pressione e segure PTT + SK1 ao ligar o rádio. O rádio entrará no modo de atualização e a luz indicadora de TX/RX ficará alternando entre verde e vermelho.
 
-⦁	Clque “Open file upgrade’’ e sececione o arquivo de firmware DM-1701(CSV)-V02.02.bin, e etnão “Download file of upgrade”.
+⦁	Clque “Open file upgrade’’ e sececione o arquivo de firmware DM-1701(CSV)-V02.06.bin (ou o outro, conforme desejar CSV ou não), e etnão “Download file of upgrade”.
 
 ⦁	Após ele mostrar ‘’Download upgrade file successful’’, reinicie o radio e a atualização estará terminada.
