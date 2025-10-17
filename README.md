@@ -1,6 +1,6 @@
 Trdução para português do Brasil. Original de BG7QVB
 
-Este é o firmware oficial do Baofeng DM1701 que salvei pessoalmente, o software oficial de atualização do firmware. O firmware é dividido em versões com contatos CSV e sem contatos CSV. from BG7QVB
+"Este é o firmware oficial do Baofeng DM1701 que salvei pessoalmente, o software oficial de atualização do firmware. O firmware é dividido em versões com contatos CSV e sem contatos CSV. from BG7QVB"
 
 ——————————————INSTRUÇÕES—————————————
 
