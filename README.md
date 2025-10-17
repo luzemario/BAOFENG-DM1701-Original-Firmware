@@ -1,15 +1,15 @@
-这是我个人保存的宝峰DM1701官方固件，官方刷写固件软件。
-固件分为有CSV联系人版本和没有CSV联系人版本。
-from BG7QVB
+Trdução para português do Brasil. Original de BG7QVB
 
-——————————————我是分割线—————————————
+Este é o firmware oficial do Baofeng DM1701 que salvei pessoalmente, o software oficial de atualização do firmware. O firmware é dividido em versões com contatos CSV e sem contatos CSV. from BG7QVB
 
-Firmware Update Operation:
+——————————————INSTRUÇÕES—————————————
 
-⦁	Install the firmware update program with the file “DMR Firmware Download(User English) Setup v3.06’’ and run the program.
+Operação para atualização do Firmware:
 
-⦁	Connect the radio to the computer with the programming cable, press and hold PTT + SK1 when turn on the radio, the radio will go into update mode and the Rx/Tx signal light will flash green and red.
+⦁	Instale o programa de autalização do firmware com o arquivo “DMR Firmware Download(User English) Setup v3.06’’ e rode o programa (Windows).
 
-⦁	Click “Open file upgrade’’ and select the firmware file DM-1701(CSV)-V02.02.bin, then “Download file of upgrade”.
+⦁	Conecte o rádio ao computaodr com o cabo de programação, pressione e segure PTT + SK1 ao ligar o rádio. O rádio entrará no modo de atualização e a luz indicadora de TX/RX ficará alternando entre verde e vermelho.
 
-⦁	After it shows ‘’Download upgrade file successful’’, reboot the radio and the update is finished.
+⦁	Clque “Open file upgrade’’ e sececione o arquivo de firmware DM-1701(CSV)-V02.02.bin, e etnão “Download file of upgrade”.
+
+⦁	Após ele mostrar ‘’Download upgrade file successful’’, reinicie o radio e a atualização estará terminada.
