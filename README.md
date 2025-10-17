@@ -6,7 +6,7 @@ Trdução para português do Brasil. Original de BG7QVB
 
 Operação para atualização do Firmware:
 
-⦁	Instale o programa de autalização do firmware com o arquivo “DMR Firmware Download(User English) Setup v3.06’’ e rode o programa (no sistema Windows).
+⦁	Instale o programa de autalização do firmware com o arquivo “DMR Firmware Download(User English) Setup v3.06’’ e rode o programa (no sistema operacional Windows).
 
 ⦁	Conecte o rádio ao computaodr com o cabo de programação, pressione e segure PTT + SK1 ao ligar o rádio. O rádio entrará no modo de atualização e a luz indicadora de TX/RX ficará alternando entre verde e vermelho.
 
