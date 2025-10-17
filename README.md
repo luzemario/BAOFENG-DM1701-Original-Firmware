@@ -8,7 +8,7 @@ Operação para atualização do Firmware:
 
 ⦁	Instale o programa de autalização do firmware com o arquivo “DMR Firmware Download(User English) Setup v3.06’’ e rode o programa (no sistema operacional Windows).
 
-⦁	Conecte o rádio ao computaodr com o cabo de programação, pressione e segure PTT + SK1 ao ligar o rádio. O rádio entrará no modo de atualização e a luz indicadora de TX/RX ficará alternando entre verde e vermelho.
+⦁	Conecte o rádio ao computador com o cabo de programação, pressione e segure PTT + SK1 ao ligar o rádio. O rádio entrará no modo de atualização e a luz indicadora de TX/RX ficará alternando entre verde e vermelho.
 
 ⦁	Clque “Open file upgrade’’ e selecione o arquivo de firmware DM-1701(CSV)-V02.06.bin (ou o outro arquivo, conforme desejar CSV ou não, ambos funcionam), e então “Download file of upgrade”.
 
